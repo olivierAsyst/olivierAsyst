@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, JavaFx**
 
-- 📫 How to reach me **moiserukab@gmail.com, olrukabo@asystresources.com**
+- 📫 How to reach me **moiserukabo@gmail.com, olrukabo@asystresources.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
