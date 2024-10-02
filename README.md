@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript Angular**
 
-- 💬 Ask me about **Java, JavaFx**
+- 💬 Ask me about **Java, Spring Boot, JavaFx**
 
 - 📫 How to reach me **moiserukabo@gmail.com, olrukabo@asystresources.com**
 
