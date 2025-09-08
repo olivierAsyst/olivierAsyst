@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Insurance projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Vue JS**
 
 - 💬 Ask me about **Java, Spring Boot, JavaFx**
 
