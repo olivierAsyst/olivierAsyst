@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, JavaFx**
 
-- 📫 How to reach me **moiserukabo@gmail.com, olrukabo@asystresources.com**
+- 📫 How to reach me **olivierbagule@gmail.com, moiserukabo@gmail.com, olrukabo@asystresources.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
